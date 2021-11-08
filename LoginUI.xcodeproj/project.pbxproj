@@ -15,6 +15,7 @@
 		45156BF82733C8B0002920F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 45156BF62733C8B0002920F4 /* LaunchScreen.storyboard */; };
 		45156C032733C8B0002920F4 /* LoginUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45156C022733C8B0002920F4 /* LoginUITests.swift */; };
 		45156C0E2733C8B0002920F4 /* LoginUIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45156C0D2733C8B0002920F4 /* LoginUIUITests.swift */; };
+		45167E6427351CAE00B6B2D8 /* SignUpTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 45167E6327351CAE00B6B2D8 /* SignUpTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		45156C092733C8B0002920F4 /* LoginUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LoginUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		45156C0D2733C8B0002920F4 /* LoginUIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginUIUITests.swift; sourceTree = "<group>"; };
 		45156C0F2733C8B1002920F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		45167E6327351CAE00B6B2D8 /* SignUpTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				45156BED2733C8AD002920F4 /* SceneDelegate.swift */,
 				45156BEF2733C8AD002920F4 /* ViewController.swift */,
 				45156BF12733C8AD002920F4 /* Main.storyboard */,
+				45167E6327351CAE00B6B2D8 /* SignUpTableViewController.swift */,
 				45156BF42733C8B0002920F4 /* Assets.xcassets */,
 				45156BF62733C8B0002920F4 /* LaunchScreen.storyboard */,
 				45156BF92733C8B0002920F4 /* Info.plist */,
@@ -262,6 +265,7 @@
 				45156BF02733C8AD002920F4 /* ViewController.swift in Sources */,
 				45156BEC2733C8AD002920F4 /* AppDelegate.swift in Sources */,
 				45156BEE2733C8AD002920F4 /* SceneDelegate.swift in Sources */,
+				45167E6427351CAE00B6B2D8 /* SignUpTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
