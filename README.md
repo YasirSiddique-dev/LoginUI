@@ -1,6 +1,6 @@
 # LoginUI
  ## Introduction
- Simple and responsive UI design using Xcode Storyboard. In this repositorie we have create login and sign sign up page, all the data in fields is validated before submission. 
+ Simple and responsive UI design using Xcode Storyboard. In this repositorie we have create login and signup page, all the data in fields is validated before submission. 
  
  ## Functional Requirements
  
